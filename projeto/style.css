@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Mooli', sans-serif;
+}
+body {
+    background-image: linear-gradient(to right,#8cbdcf, #dbaac8, #C1DDE3);
+}
+
+
+
+main {
+    background-color: #b485aea7;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+    width: 750px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #c9dfee;
+    text-shadow: 2px 2px 2px #d798e0;
+}
+
+
+h2{
+    color: #5d3862;
+    text-align: center;
+}
+
+h3 {
+    color: #2681a0;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+nav li{
+    display: inline;
+    margin-left: 20px;  
+    font-weight: bold;
+    padding: 5px;
+    border: 10px;
+    background-color: #b56fbe2c;
+    border-radius: 7px;
+
+}
+
+nav{
+    float: right;
+}
